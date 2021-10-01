@@ -9,7 +9,7 @@ const Header: VFC = () => (
     <Box sx={{ p: 2, color: '#fff', backgroundColor: '#181818' }}>
       <Grid container alignItems="center" justifyContent="space-between">
         <Grid item>
-          <h1 className='title'>Car Ecommerse</h1>
+          <h1 className='title'>Car Ecommerce</h1>
         </Grid>
         <Grid item>
           <a href='https://github.com/Fanta335/Car-E-Commerce'>
