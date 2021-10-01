@@ -18,12 +18,12 @@ car-e-commerce.vercel.app
 - Newest Arrivals: 登録日が新しい順に表示します。
 
 # Installation
-```
+```zsh
 
-$ git clone https://github.com/Fanta335/Car-E-Commerce
-$ cd Car-E-Commerce
-$ yarn
-$ yarn start
+git clone https://github.com/Fanta335/Car-E-Commerce
+cd Car-E-Commerce
+yarn
+yarn start
 ```
 
 # Author
