@@ -2,7 +2,7 @@
 シンプルな車のECサイトです。取り扱う商品の一覧が表示されます。また、条件を指定することで表示数を絞り込んだり、順番をソートすることができます。
 
 # URL
-car-e-commerce.vercel.app
+https://car-e-commerce.vercel.app/
 
 # Demo
 ![car-ecommerce-demo](https://user-images.githubusercontent.com/64186927/135609420-ef88ab41-57f3-44a8-9081-f4eb5c6f415d.gif)
