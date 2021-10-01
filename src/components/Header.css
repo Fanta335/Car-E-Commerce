@@ -1,8 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
 
-h1 {
+.title {
   margin: 0;
   margin-left: 0.4em;
   font-family: 'Teko', sans-serif;
   font-size: 4em;
+}
+
+.code-link {
+  margin: 0;
+  margin-left: 0.4em;
+  font-family: 'Teko', sans-serif;
+  font-size: 3em;
+  color: #fff;
+  text-decoration: underline #fff;
 }
